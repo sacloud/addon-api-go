@@ -1,4 +1,4 @@
-module github.com/sacloud/go-template
+module github.com/sacloud/addon-api-go
 
 go 1.24.0
 
