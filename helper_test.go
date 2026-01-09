@@ -122,3 +122,8 @@ var MockDeploymentStatus v1.DeploymentStatus = func() (mock v1.DeploymentStatus)
 	mock.SetProperties(v1.NewOptDeploymentStatusProperties(MockDeploymentStatusProperties))
 	return
 }()
+
+var MockFrontDoorOrigin v1.FrontDoorOrigin = func() (mock v1.FrontDoorOrigin) {
+	mock.SetFake()
+	return
+}()
