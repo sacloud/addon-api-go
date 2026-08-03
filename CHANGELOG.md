@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.1.1](https://github.com/sacloud/addon-api-go/compare/v0.1.0...v0.1.1) - 2026-08-03
+- update README for repository transition by @shyouhei in https://github.com/sacloud/addon-api-go/pull/52
+
 ## [v0.1.0](https://github.com/sacloud/addon-api-go/compare/v0.0.1...v0.1.0) - 2026-03-22
 - Add support  endpoint setting from env and profiles by @to-shoji in https://github.com/sacloud/addon-api-go/pull/37
 
